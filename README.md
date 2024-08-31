@@ -1,6 +1,6 @@
 # beadedPawProject
 
-I made a paw using beadweaving techniques! It was my first time beadweaving something with a weird shaoe (i.e. something that isn't rectangular), so it turned out messy.
+I made a paw using beadweaving techniques! It was my first time beadweaving something with a weird shape (i.e. something that isn't rectangular), so it turned out messy.
 
 Final Product:
 
